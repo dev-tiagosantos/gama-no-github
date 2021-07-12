@@ -1,0 +1,1 @@
+Cara, para quem nunca utilizou o GIT é complicado mas até o momento o curso tem atendido be, estou gostando, espero que continue assim
